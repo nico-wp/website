@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>nico_lae &#8211; Nicolae Perjunca</title>
+	<atom:link href="https://nico-wp.github.io/website/author/nico_lae/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nico-wp.github.io/website</link>
+	<description>Un nuovo sito targato WordPress</description>
+	<lastBuildDate>Fri, 26 Aug 2022 16:04:13 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
+	<item>
+		<title>Ciao mondo!</title>
+		<link>https://nico-wp.github.io/website/2022/08/26/ciao-mondo/</link>
+					<comments>https://nico-wp.github.io/website/2022/08/26/ciao-mondo/#comments</comments>
+		
+		<dc:creator><![CDATA[nico_lae]]></dc:creator>
+		<pubDate>Fri, 26 Aug 2022 16:04:13 +0000</pubDate>
+				<category><![CDATA[Senza categoria]]></category>
+		<guid isPermaLink="false">https://nico-wp.github.io/website/?p=1</guid>
+
+					<description><![CDATA[Ti diamo il benvenuto in WordPress. Questo è il tuo primo articolo. Modificalo o eliminalo e quindi inizia a scrivere!]]></description>
+										<content:encoded><![CDATA[
+<p>Ti diamo il benvenuto in WordPress. Questo è il tuo primo articolo. Modificalo o eliminalo e quindi inizia a scrivere!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://nico-wp.github.io/website/2022/08/26/ciao-mondo/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
