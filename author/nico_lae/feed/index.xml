@@ -11,7 +11,7 @@
 	<title>nico_lae &#8211; Nicolae Perjunca</title>
 	<atom:link href="https://nico-wp.github.io/website/author/nico_lae/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nico-wp.github.io/website</link>
-	<description>Un nuovo sito targato WordPress</description>
+	<description>Digital Marketing Specialist Parma - Siti Web </description>
 	<lastBuildDate>Fri, 26 Aug 2022 16:04:13 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>
@@ -19,6 +19,14 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.1</generator>
+
+<image>
+	<url>https://nico-wp.github.io/website/wp-content/uploads/2022/08/N.png</url>
+	<title>nico_lae &#8211; Nicolae Perjunca</title>
+	<link>https://nico-wp.github.io/website</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Ciao mondo!</title>
 		<link>https://nico-wp.github.io/website/2022/08/26/ciao-mondo/</link>
